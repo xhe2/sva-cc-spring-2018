@@ -26,7 +26,7 @@ function draw(){
 
 
  strokeWeight(14);
- stroke(251,88,strokeColor1,stokeColor1);
+ stroke(251,88,strokeColor1,strokeColor1);
  noFill();
  //fill(250);
  let secondAngle = map(sc,0,60,0,360);
